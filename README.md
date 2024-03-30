@@ -1,7 +1,6 @@
 # hackintoshTOSHIBA
 
-Hackintosh (macOS) sur Toshiba satellite L50-C-&VH avec OpenCore.
-Version installé : 3.5.2 
+Hackintosh (macOS) sur Toshiba satellite L50-C-1VH avec OpenCore.
 
 
 Bios version : derniere version.
