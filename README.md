@@ -1,5 +1,4 @@
 # hackintoshTOSHIBA
-Hackintosh sur toshiba satellite l50-c-1vh
 
 Hackintosh (macOS) sur Toshiba satellite L50-C-&VH avec OpenCore.
 Version installé : 3.5.2 
